@@ -1,0 +1,75 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: justify;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size:45px;
+    padding-bottom:5px;
+    font-weight:600;
+}
+h2{
+    font-size:25px;
+}
+#color{
+    color: hotpink;
+}
+.half{
+    padding-left:6%;
+    width:38%;
+    float: left;
+    padding-right:4%;
+}
+img{
+    height:100%;
+    width: 100%;
+}
+.First{
+    background-image:url(header-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.button{
+    background-color:red;
+    height:40px;
+    width:150px;
+    border:2px solid red;
+    border-radius:5px;
+    color: white;
+}
+section{
+    padding-bottom: 120px;
+    height:500px;
+}
+.Dream-Big{
+    background-image:url(biography-bg.png);
+}
+h3{
+    color: chocolate;
+}
+#one{
+    padding-left:6%;
+}
+#late{
+    box-shadow: 10px 10px 50px grey;
+    padding:5px 40px 40px 20px;
+    border-left: 3px solid blue;
+    border-radius: 5px;
+}
+#fast{
+      box-shadow: 10px 10px 50px grey;
+      padding:5px 40px 85px 20px;
+      border-left: 3px solid orange;
+      border-radius: 5px;
+}
+.git{
+      margin-left: 5%;
+}
+.Experience{
+     background-image:url(footer-bg.png);
+}
+footer{
+    font-size:12px;
+    text-align: center;
+}
